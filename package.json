@@ -1,7 +1,7 @@
 {
     "name": "@bvanderplanck/rollup-plugin-react-remove-lazy-loading",
     "package-name": "@bvanderplanck/rollup-plugin-react-remove-lazy-loading",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "Replace React Lazy Loading with simple import",
     "author": "Bertrand Vanderplanck <bertrand.vanderplanck@gmail.com>",
     "homepage": "https://github.com/bvanderplanck/rollup-plugin-react-remove-lazy-loading",
