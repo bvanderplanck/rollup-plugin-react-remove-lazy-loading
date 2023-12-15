@@ -3,5 +3,5 @@ declare module '@bvanderplanck/rollup-plugin-react-remove-lazy-loading' {
         disabled?: boolean
     }
 
-    export default function IgnoreLazyLoad(options: IgnoreLazyLoadOptions): { name: string, transform: Function }
+    export default function IgnoreLazyLoad<T extends any>(options: IgnoreLazyLoadOptions): T
 }
