@@ -1,0 +1,16 @@
+{
+    "name": "@bvanderplanck/rollup-plugin-react-remove-lazy-loading",
+    "version": "1.0.0",
+    "description": "Replace React Lazy Loading with simple import",
+    "author": "Bertrand Vanderplanck <bertrand.vanderplanck@gmail.com>",
+    "homepage": "https://github.com/bvanderplanck/rollup-plugin-react-remove-lazy-loading",
+    "keywords": [
+        "react",
+        "rollup-plugin",
+        "lazy laoding",
+        "vite",
+        "vite-plugin"
+    ],
+    "main": "index.js",
+    "types": "index.d.ts"
+}
