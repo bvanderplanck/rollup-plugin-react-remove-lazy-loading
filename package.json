@@ -12,6 +12,6 @@
         "vite",
         "vite-plugin"
     ],
-    "main": "index.js",
+    "main": "index.mjs",
     "types": "index.d.ts"
 }
